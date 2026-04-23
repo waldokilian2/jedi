@@ -1,0 +1,10 @@
+{
+  "name": "jedi",
+  "version": "0.1.0",
+  "description": "A plugin with a UserPromptSubmit hook for injecting custom prompts",
+  "author": {
+    "name": "Waldo"
+  },
+  "license": "MIT",
+  "keywords": ["hooks", "prompt-injection"]
+}
